@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: d43512933d8ad2c48bdf8ff895dca60e
+timeCreated: 1484802477
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: KODblack
+    100004: KODch2
+    100006: KODchrom
+    100008: KODclos
+    100010: KODdoor
+    100012: KODleath
+    100014: KODlens
+    100016: KODmetal
+    100018: KODmirro
+    100020: KODplat1
+    100022: KODplat2
+    100024: KODplat3
+    100026: KODplat4
+    400000: //RootNode
+    400002: KODblack
+    400004: KODch2
+    400006: KODchrom
+    400008: KODclos
+    400010: KODdoor
+    400012: KODleath
+    400014: KODlens
+    400016: KODmetal
+    400018: KODmirro
+    400020: KODplat1
+    400022: KODplat2
+    400024: KODplat3
+    400026: KODplat4
+    2300000: KODblack
+    2300002: KODch2
+    2300004: KODchrom
+    2300006: KODclos
+    2300008: KODdoor
+    2300010: KODleath
+    2300012: KODlens
+    2300014: KODmetal
+    2300016: KODmirro
+    2300018: KODplat1
+    2300020: KODplat2
+    2300022: KODplat3
+    2300024: KODplat4
+    3300000: KODblack
+    3300002: KODch2
+    3300004: KODchrom
+    3300006: KODclos
+    3300008: KODdoor
+    3300010: KODleath
+    3300012: KODlens
+    3300014: KODmetal
+    3300016: KODmirro
+    3300018: KODplat1
+    3300020: KODplat2
+    3300022: KODplat3
+    3300024: KODplat4
+    4300000: KODplat4
+    4300002: KODplat3
+    4300004: KODplat2
+    4300006: KODplat1
+    4300008: KODmirro
+    4300010: KODmetal
+    4300012: KODlens
+    4300014: KODleath
+    4300016: KODdoor
+    4300018: KODclos
+    4300020: KODchrom
+    4300022: KODch2
+    4300024: KODblack
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
