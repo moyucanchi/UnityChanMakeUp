@@ -50,10 +50,11 @@ public class RayToMakeUp : MonoBehaviour {
 					Texture2D objectTexture = renderer.material.mainTexture as Texture2D;
 					pixelUV.x *= objectTexture.width;
 					pixelUV.y *= objectTexture.height;
+					Color c= ColorSelector.GetColor();
 					if(tools.Equals("square")){
 						for(int i=0;i<paintSize;i++){
 							for(int j=0;j<paintSize;j++){
-								objectTexture.SetPixel((int)pixelUV.x+i ,(int)pixelUV.y+j, Color.black);
+								objectTexture.SetPixel((int)pixelUV.x+i ,(int)pixelUV.y+j, c);
 							}
 						}
 						print ("square");
@@ -62,7 +63,7 @@ public class RayToMakeUp : MonoBehaviour {
 						print ("circle");
 					}
 
-					//objectTexture.Apply();
+					objectTexture.Apply();
 				}
 			}
 		}
