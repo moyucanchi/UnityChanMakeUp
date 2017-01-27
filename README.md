@@ -6,12 +6,15 @@
 ##Examples
 ![][1]
 [1]:https://github.com/moyucanchi/UnityChanMakeUp/blob/master/1.gif
-###Select Pen
-
+###Select Pen Size
+![][2]
+[2]:https://github.com/moyucanchi/UnityChanMakeUp/blob/master/2.gif
 ###Select Color
-
+![][4]
+[4]:https://github.com/moyucanchi/UnityChanMakeUp/blob/master/4.gif
 ###MakeUp
-
+![][5]
+[5]:https://github.com/moyucanchi/UnityChanMakeUp/blob/master/5.gif
 ___
 ##How To Play
 ###How To Select Pen Size
