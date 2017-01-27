@@ -10,7 +10,7 @@
 
 ###MakeUp
 
-
+___
 ##How To Play
 ###How To Select Pen Size
 
@@ -27,5 +27,7 @@
     ii. Then, touch the triangle inside to choice the brightness of mean color.<br>
 
 ###How To MakeUp
-  
+
+   1. Use Index finger to MakeUp. <br>
+   
 ##At Last
