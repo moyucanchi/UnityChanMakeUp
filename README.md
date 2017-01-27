@@ -25,7 +25,7 @@
   3. Index finger to touch the 'ColorBoard'. <br>
     i. First, you should touch the circle outside to choice the mean color.<br>
     ii. Then, touch the triangle inside to choice the brightness of mean color.<br>
-   
+
 ###How To MakeUp
   
 ##At Last
