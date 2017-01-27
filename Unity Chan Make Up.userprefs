@@ -1,9 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\RayToMakeUp.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\ScreenShot.cs">
     <Files>
-      <File FileName="Assets\Script\RayToMakeUp.cs" Line="24" Column="20" />
+      <File FileName="Assets\Script\RayToMakeUp.cs" Line="69" Column="4" />
       <File FileName="Assets\Script\PaintController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ColorSelector\Script\ColorSelector.cs" Line="141" Column="26" />
+      <File FileName="Assets\Script\HandFollow.cs" Line="35" Column="43" />
+      <File FileName="Assets\Script\ShowObject.cs" Line="31" Column="12" />
+      <File FileName="Assets\Script\ColorSelect.cs" Line="38" Column="7" />
+      <File FileName="Assets\ColorSelector\Readme.txt" Line="6" Column="1" />
+      <File FileName="Assets\Script\ScreenShot.cs" Line="15" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

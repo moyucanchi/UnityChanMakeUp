@@ -36,7 +36,7 @@ public class HandFollow : MonoBehaviour {
 					//transform.rotation = finger.bones[1].rotation;
 					Vector3 Q = hand_model.palm.rotation.eulerAngles;
 
-						Q.z -= 90f;
+					Q.z -= 90f;
 				
 					transform.rotation = Quaternion.Euler (Q);
 					//print (transform.position);

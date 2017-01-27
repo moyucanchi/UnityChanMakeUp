@@ -9,6 +9,7 @@ public class RayToMakeUp : MonoBehaviour {
 	public HandModel hand_model;
 	public int paintSize;
 	public string tools="square";
+	private Color c;
 	// Use this for initialization
 	void Start () {
 		if (LeapDataProvider == null)
@@ -39,7 +40,7 @@ public class RayToMakeUp : MonoBehaviour {
 					if (!Physics.Raycast (ray,out hit,0.01f)) {
 						return;
 					}
-					print ("hit");
+
 					Vector2 pixelUV = hit.textureCoord;
 					Renderer renderer= hit.collider.GetComponent<Renderer> ();
 					MeshCollider meshCollider = hit.collider as MeshCollider;
@@ -50,11 +51,12 @@ public class RayToMakeUp : MonoBehaviour {
 					Texture2D objectTexture = renderer.material.mainTexture as Texture2D;
 					pixelUV.x *= objectTexture.width;
 					pixelUV.y *= objectTexture.height;
-					Color c= ColorSelector.GetColor();
+
+						
 					if(tools.Equals("square")){
 						for(int i=0;i<paintSize;i++){
 							for(int j=0;j<paintSize;j++){
-								objectTexture.SetPixel((int)pixelUV.x+i ,(int)pixelUV.y+j, c);
+									objectTexture.SetPixel((int)pixelUV.x+i ,(int)pixelUV.y+j, c);
 							}
 						}
 						print ("square");

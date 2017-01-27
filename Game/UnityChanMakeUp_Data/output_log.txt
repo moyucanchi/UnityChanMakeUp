@@ -1,0 +1,42 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8144 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.133 seconds
+Platform assembly: D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity Workspace\Unity Chan Make Up\Game\UnityChanMakeUp_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 353)
+
+UnloadTime: 0.604509 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 4404 -> priority: 1 
+  Thread -> id: 4408 -> priority: 1 
+  Thread -> id: 440c -> priority: 1 
+OpenVR Shutdown
+ 
+(Filename:  Line: 707)
+

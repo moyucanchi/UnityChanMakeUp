@@ -13,7 +13,8 @@ public class ColorSelector : MonoBehaviour {
 	public GameObject selectorImage,outerCursor,innerCursor;
 	public SpriteRenderer finalColorSprite;
 
-	Color finalColor, selectedColor;
+	Color finalColor =Color.black;
+	Color selectedColor;
 	float selectorAngle=0.0f;
 	Vector2 innerDelta=Vector2.zero;
 	static ColorSelector myslf;
@@ -56,7 +57,6 @@ public class ColorSelector : MonoBehaviour {
 		Frame curFrame = LeapDataProvider.CurrentFrame.TransformedCopy(LeapTransform.Identity);
 		for (int whichHand = 0; whichHand < 2; whichHand++) {
 			if (curFrame.Hands.Count > whichHand) {
-
 				if (curFrame.Hands [whichHand].IsRight) {
 					FingerModel finger =hand_model.fingers[1];
 					ray = finger.GetRay();	
@@ -65,7 +65,6 @@ public class ColorSelector : MonoBehaviour {
 						
 							Vector3 localPosition=transform.InverseTransformPoint(hit.point);
 							float dist=Vector2.Distance(Vector2.zero,localPosition);
-						print (dist);
 							if(dist>0.042)
 								SelectOuterColor(localPosition);
 							else

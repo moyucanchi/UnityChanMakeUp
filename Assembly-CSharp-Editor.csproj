@@ -70,6 +70,8 @@
      <Compile Include="Assets\LeapMotion\Scripts\VR\Editor\EyeTypeEditor.cs" />
      <Compile Include="Assets\LeapMotion\Scripts\VR\Editor\LeapTemporalWarpingEditor.cs" />
      <Compile Include="Assets\LeapMotionModules\Hands\Scripts\Editor\LeapHandsAutoRigEditor.cs" />
+     <Compile Include="Assets\LeapMotionModules\UIInput\Editor\CompressibleUIEditor.cs" />
+     <Compile Include="Assets\LeapMotionModules\UIInput\Editor\LeapInputModuleEditor.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Editor.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_RenderModelEditor.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Settings.cs" />
