@@ -23,8 +23,8 @@
   1. Let your "Left Palm"  toward your face.You can see the menu. <br>
   2. Use right hand to select the button called 'ColorTools'. <br>
   3. Index finger to touch the 'ColorBoard'. <br>
-    i. First, you should touch the circle outside to choice the mean color.
-    ii. Then, touch the triangle inside to choice the brightness of mean color.
+    i. First, you should touch the circle outside to choice the mean color.<br>
+    ii. Then, touch the triangle inside to choice the brightness of mean color.<br>
    
 ###How To MakeUp
   
