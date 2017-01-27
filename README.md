@@ -38,20 +38,17 @@ ___
 ___
 
 ##System Requirements 
+####PC
 OS: Windows 10 <br>
 Processor: Intel i5-4590 <br>
 Memory: 8 GB RAM <br>
 Graphics: NVIDIA GeForce GTX 970 <br>
 DirectX: Version 11 <br>
 
-___
-
-##VR Support
+####VR Support
 **HTC Vive/Oculus CV1**
 
-___
-
-##Hand Tracking
+####Hand Tracking
 **Leap Motion**
 ___
 ##Supported By
