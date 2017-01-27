@@ -46,10 +46,10 @@ Graphics: NVIDIA GeForce GTX 970 <br>
 DirectX: Version 11 <br>
 
 ####VR Support
-**HTC Vive/Oculus CV1**
+`HTC Vive/Oculus CV1`
 
 ####Hand Tracking
-**Leap Motion**
+`Leap Motion`
 ___
 ##Supported By
 
