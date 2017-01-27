@@ -44,7 +44,13 @@ DirectX: Version 11 <br>
 ##Hand Tracking
 **Leap Motion**
 
-##
+##Support
+
+"Unity-chan!" Model
+https://www.assetstore.unity3d.com/cn/#!/content/18705
+Simple House Interiors - Cartoon assets
+https://www.assetstore.unity3d.com/jp/#!/content/38027
+
 ##At Last
 
 Any questions:moyucanchi@gmail.com
