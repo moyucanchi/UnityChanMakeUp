@@ -29,12 +29,14 @@ ___
   2. Use right hand to select the button called 'ColorTools'. <br>
   3. Index finger to touch the 'ColorBoard'. <br>
     i. First, you should touch the circle outside to choice the mean color.<br>
-    ii. Then, touch the triangle inside to choice the brightness of mean color.<br>
+   ii. Then, touch the triangle inside to choice the brightness of mean color.<br>
 
 ###How To MakeUp
 
    1. Use Index finger to MakeUp. <br>
+   
 ___
+
 ##System Requirements 
 OS: Windows 10 <br>
 Processor: Intel i5-4590 <br>
