@@ -1,6 +1,6 @@
 # UnityChanMakeUp
 
-**UnityChanMakeUp**（ユニティーちゃんメイクアップ）is a makeup-simulation game. You kan makeup　for the beautiful girl who colled **UnityChan**.
+**UnityChanMakeUp**（ユニティーちゃんメイクアップ）is a makeup-simulation VRgame. You can makeup　for the beautiful girl who colled **UnityChan**.You can use yourself's hands to play whihout controllers.
 
 ##Examples
 
@@ -30,4 +30,17 @@ ___
 
    1. Use Index finger to MakeUp. <br>
    
+##System Requirements 
+OS: Windows 10 <br>
+Processor: Intel i5-4590 <br>
+Memory: 8 GB RAM <br>
+Graphics: NVIDIA GeForce GTX 970 <br>
+DirectX: Version 11 <br>
+
+##VR Support
+**HTC Vive/Oculus CV1**
+
+##Hand Tracking
+**Leap Motion**
+
 ##At Last
