@@ -44,12 +44,14 @@ DirectX: Version 11 <br>
 ##Hand Tracking
 **Leap Motion**
 
-##Support
+##Supported By
 
-"Unity-chan!" Model
-https://www.assetstore.unity3d.com/cn/#!/content/18705
-Simple House Interiors - Cartoon assets
-https://www.assetstore.unity3d.com/jp/#!/content/38027
+**"Unity-chan!" Model**<br>
+https://www.assetstore.unity3d.com/cn/#!/content/18705<br>
+**Simple House Interiors - Cartoon assets**<br>
+https://www.assetstore.unity3d.com/jp/#!/content/38027<br>
+**Hover UI Kit**<br>
+https://github.com/aestheticinteractive/Hover-UI-Kit<br>
 
 ##At Last
 
