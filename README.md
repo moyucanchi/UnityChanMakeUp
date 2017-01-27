@@ -1,6 +1,6 @@
 # UnityChanMakeUp
 
-**UnityChanMakeUp**（ユニティーちゃんメイクアップ）is a makeup-simulation VRgame. You can makeup　for the beautiful girl who colled **UnityChan**.You can use yourself's hands to play whihout controllers.
+**UnityChanMakeUp**（ユニティーちゃんメイクアップ）is a makeup-simulation VRgame. You can makeup　for the beautiful girl who colled **UnityChan**.You can use yourself's hands to play whihout controllers.Before you start to play the game you should make sure you have VR HMD(like HTC Vive/Oculus CV1) and Leap Motion to tracking your hands.
 
 ##Examples
 
