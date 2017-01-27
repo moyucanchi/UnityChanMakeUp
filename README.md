@@ -30,17 +30,21 @@ ___
 ###How To MakeUp
 
    1. Use Index finger to MakeUp. <br>
-___   
+___
 ##System Requirements 
 OS: Windows 10 <br>
 Processor: Intel i5-4590 <br>
 Memory: 8 GB RAM <br>
 Graphics: NVIDIA GeForce GTX 970 <br>
 DirectX: Version 11 <br>
+
 ___
+
 ##VR Support
 **HTC Vive/Oculus CV1**
+
 ___
+
 ##Hand Tracking
 **Leap Motion**
 ___
@@ -52,7 +56,9 @@ https://www.assetstore.unity3d.com/cn/#!/content/18705<br>
 https://www.assetstore.unity3d.com/jp/#!/content/38027<br>
 **Hover UI Kit**<br>
 https://github.com/aestheticinteractive/Hover-UI-Kit<br>
+
 ___
+
 ##At Last
 
 Any questions:moyucanchi@gmail.com
