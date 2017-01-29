@@ -52,17 +52,23 @@ public class RayToMakeUp : MonoBehaviour {
 					pixelUV.x *= objectTexture.width;
 					pixelUV.y *= objectTexture.height;
 
-						
+					try{
+						c=ColorSelector.GetColor();
+					}catch{
+						c = Color.black;
+					}	
 					if(tools.Equals("square")){
 						for(int i=0;i<paintSize;i++){
 							for(int j=0;j<paintSize;j++){
-									objectTexture.SetPixel((int)pixelUV.x+i ,(int)pixelUV.y+j, c);
+								objectTexture.SetPixel((int)pixelUV.x+i ,(int)pixelUV.y+j, c);
 							}
 						}
-						print ("square");
-						print (paintSize);
 					}else{
-						print ("circle");
+						for(int i=0;i<paintSize;i++){
+							for(int j=0;j<paintSize;j++){
+								objectTexture.SetPixel((int)pixelUV.x+i ,(int)pixelUV.y+j, c);
+							}	
+						}
 					}
 
 					objectTexture.Apply();

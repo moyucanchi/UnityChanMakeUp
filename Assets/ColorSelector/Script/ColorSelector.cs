@@ -13,8 +13,7 @@ public class ColorSelector : MonoBehaviour {
 	public GameObject selectorImage,outerCursor,innerCursor;
 	public SpriteRenderer finalColorSprite;
 
-	Color finalColor =Color.black;
-	Color selectedColor;
+	Color finalColor , selectedColor;
 	float selectorAngle=0.0f;
 	Vector2 innerDelta=Vector2.zero;
 	static ColorSelector myslf;

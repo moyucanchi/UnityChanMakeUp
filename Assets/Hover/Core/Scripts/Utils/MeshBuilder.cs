@@ -101,7 +101,7 @@ namespace Hover.Core.Utils {
 			}
 
 			if ( pOptimize ) {
-				Mesh.Optimize();
+				;
 			}
 		}
 
