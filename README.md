@@ -64,8 +64,8 @@ ___
 
 ##At Last
 ###Next I Want
-Take photos
-Use tools
-Rendering optimizations
-Add scenes
+Take photos<br>
+Use tools<br>
+Rendering optimizations<br>
+Add scenes<br>
 Any questions:moyucanchi@gmail.com or moyucanchi@yahoo.co.jp
