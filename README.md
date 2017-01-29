@@ -8,7 +8,7 @@
 [1]:https://github.com/moyucanchi/UnityChanMakeUp/blob/master/Gif/1.gif
 ###Select Pen Size
 ![][2]
-[2]:https://github.com/moyucanchi/UnityChanMakeUp/tree/master/Gif/2.gif
+[2]:https://github.com/moyucanchi/UnityChanMakeUp/blob/master/Gif/2.gif
 ###Select Color
 ![][4]
 [4]:https://github.com/moyucanchi/UnityChanMakeUp/blob/master/Gif/4.gif
