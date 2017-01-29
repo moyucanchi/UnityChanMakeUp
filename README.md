@@ -68,4 +68,7 @@ Take photos<br>
 Use tools<br>
 Rendering optimizations<br>
 Add scenes<br>
-Any questions:moyucanchi@gmail.com or moyucanchi@yahoo.co.jp
+and so on...<br>
+___
+
+`Any questions`:moyucanchi@gmail.com or moyucanchi@yahoo.co.jp
